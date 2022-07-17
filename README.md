@@ -63,7 +63,7 @@
 
 [![Shivam Sharma's github stats](https://github-readme-stats.vercel.app/api?username=ShivamSharmaDeveloper&show_icons=true&theme=radical)](https://github.com/ShivamSharmaDeveloper/ShivamSharmaDeveloper)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
   </body>
