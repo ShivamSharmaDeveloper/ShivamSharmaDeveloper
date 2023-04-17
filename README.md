@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<div style="width:100%;height:0;padding-bottom:83%;position:relative;"><iframe src="https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" data-canonical-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="max-width:100%;"></a>
 
 <ul>
 <li><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Currently working with Java, Python, Javascript, Android, WebDevelopment, Cloud Computing;</li>
